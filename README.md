@@ -1,8 +1,9 @@
 ## Contém o código do protótipo desenvolvido na jornada do desenvolvimento 2021
   A Biblioteca adafruit-circuitpython-miniqr com um pequeno ajuste para viabilizar um QR Code com um tamanho maior que o suportado na biblioteca original 
 
-Hardware + Circuitpython 6.3
-Franzininho WiFi Wrover
+Desenvolvido com a 
+Franzininho WiFi Wrover + Circuitpython 6.3
+- https://circuitpython.org/board/franzininho_wifi_wrover/
 - https://adafruit-circuit-python.s3.amazonaws.com/bin/franzininho_wifi_wrover/pt_BR/adafruit-circuitpython-franzininho_wifi_wrover-pt_BR-6.3.0.bin
 
 # Referências
